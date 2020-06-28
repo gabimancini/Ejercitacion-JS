@@ -14,3 +14,14 @@
 #the-bodyy{
     border-color:  rgba(141,161,185, .5) !important;
 } 
+ul{
+    display: flex;
+   justify-content: flex-end;
+}
+ul a{
+    margin-right: 10px;
+}
+ul a i{
+    font-size: 2em;
+    color: #fff;
+}
