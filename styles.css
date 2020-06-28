@@ -1,0 +1,16 @@
+.jumbotron-fluid {
+    background-color: #8DA1B9;
+}
+
+.card {
+    border: 3px solid #ABC5CF;
+    margin-bottom: 2em;
+}
+
+.card-title {
+    background-color: #ABC5CF;
+    padding: 1rem;
+}
+#the-bodyy{
+    border-color:  rgba(141,161,185, .5) !important;
+} 
