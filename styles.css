@@ -1,6 +1,9 @@
 .jumbotron-fluid {
     background-color: #8DA1B9;
 }
+h1{
+    color:#fff;
+}
 /* Social Media */
 ul{
     display: flex;
