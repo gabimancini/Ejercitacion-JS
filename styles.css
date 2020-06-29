@@ -1,7 +1,19 @@
 .jumbotron-fluid {
     background-color: #8DA1B9;
 }
-
+/* Social Media */
+ul{
+    display: flex;
+   justify-content: flex-end;
+}
+ul a{
+    margin-right: 10px;
+}
+ul a i{
+    font-size: 2em;
+    color: #fff;
+}
+/* Cards */
 .card {
     border: 3px solid #ABC5CF;
     margin-bottom: 2em;
@@ -14,14 +26,3 @@
 #the-bodyy{
     border-color:  rgba(141,161,185, .5) !important;
 } 
-ul{
-    display: flex;
-   justify-content: flex-end;
-}
-ul a{
-    margin-right: 10px;
-}
-ul a i{
-    font-size: 2em;
-    color: #fff;
-}
